@@ -261,7 +261,20 @@ No cal transport públic.
 ## [Banys Rudas](https://www.google.com/maps/place/Rudas+Thermal+Bath/@47.4891635,19.0453967,17z/data=!3m1!4b1!4m6!3m5!1s0x4741dc48793a07bf:0xe30c631dc2a0f87a!8m2!3d47.4891599!4d19.0479716!16zL20vMGJiMXNt?entry=ttu&g_ep=EgoyMDI2MDcyOC4wIKXMDSoASAFQAw%3D%3D)
 🇭🇺 **Rudas Gyógyfürdő** · Budapest, Döbrentei tér 9
 
+
 ![Banys Rudas](https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Rudas_Baths_central_part_and_Gellert_Hill_in_Tab%C3%A1n%2C_2016_Budapest.jpg/1280px-Rudas_Baths_central_part_and_Gellert_Hill_in_Tab%C3%A1n%2C_2016_Budapest.jpg)
+
+Alternativa però molt més turístic:
+
+
+## [Széchenyi Gyógyfürdő](https://www.google.com/maps/place/Rudas+Thermal+Bath/@47.4891635,19.0453967,17z/data=!3m1!4b1!4m6!3m5!1s0x4741dc48793a07bf:0xe30c631dc2a0f87a!8m2!3d47.4891599!4d19.0479716!16zL20vMGJiMXNt?entry=ttu&g_ep=EgoyMDI2MDcyOC4wIKXMDSoASAFQAw%3D%3D)
+🇭🇺 **Rudas Gyógyfürdő** · Budapest, Döbrentei tér 9
+
+
+![Széchenyi Gyógyfürdő](https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Rudas_Baths_central_part_and_Gellert_Hill_in_Tab%C3%A1n%2C_2016_Budapest.jpg/1280px-Rudas_Baths_central_part_and_Gellert_Hill_in_Tab%C3%A1n%2C_2016_Budapest.jpg)
+
+Alternativa:
+
 
 Temps
 
