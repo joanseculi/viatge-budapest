@@ -131,7 +131,7 @@ Passeig pel centre
 
 Ruta
 
-Espresso Embassy → [Plaça de la Llibertat](https://www.google.com/maps/place/Liberty+Square/@47.5039785,19.0480347,17z/data=!3m1!4b1!4m6!3m5!1s0x4741dc1479087f53:0x4ffd46a712e22e81!8m2!3d47.5039749!4d19.0506096!16s%2Fm%2F0w1fjwx?entry=ttu&g_ep=EgoyMDI2MDcyOC4wIKXMDSoASAFQAw%3D%3D) → [Pont de les Cadenes](https://www.google.com/maps/place/Chain+Bridge).
+Espresso Embassy → [Plaça de la Llibertat](https://www.google.com/maps/place/Liberty+Square/@47.5039785,19.0480347,17z/data=!3m1!4b1!4m6!3m5!1s0x4741dc1479087f53:0x4ffd46a712e22e81!8m2!3d47.5039749!4d19.0506096!16s%2Fm%2F0w1fjwx?entry=ttu&g_ep=EgoyMDI2MDcyOC4wIKXMDSoASAFQAw%3D%3D) → [Pont de les Cadenes](https://www.google.com/maps/place/Pont+de+les+Cadenes/@47.4999202,19.045359,17z/data=!4m10!3m9!1s0x4741dc3fb79a1a29:0x1e40fed785d0c9a4!5m3!1s2026-11-04!4m1!1i2!8m2!3d47.4989928!4d19.0436994!16zL20vMDN5aHc2?entry=ttu&g_ep=EgoyMDI2MDcyOC4wIKXMDSoASAFQAw%3D%3D).
 🇭🇺 **Szabadság tér** · Budapest, Szabadság tér · **Gresham-palota** · Budapest, Oktogon tér 6 · **Széchenyi lánchíd** · Budapest, Széchenyi lánchíd
 
 No entrarem encara al pont.
