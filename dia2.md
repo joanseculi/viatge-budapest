@@ -2,7 +2,7 @@
 
 ## Basílica · Mercat Central · Rudas · Passeig nocturn
 
-![Budapest Parliament](https://images.unsplash.com/photo-1549921286-0007e5cd3a34?w=1200&q=80)
+![Parlament de Budapest](https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/HUN-2015-Budapest-Hungarian_Parliament_%28Budapest%29_2015-02.jpg/1280px-HUN-2015-Budapest-Hungarian_Parliament_%28Budapest%29_2015-02.jpg)
 
 **Temps caminant aproximat:** 10-12 km durant tot el dia.
 
@@ -39,6 +39,8 @@ Aquesta caminada és molt agradable perquè el centre encara està bastant tranq
 ---
 
 ## 09:00 – [Basílica de Sant Esteve](https://www.google.com/maps/place/St.+Stephen%27s+Basilica)
+
+![Basílica de Sant Esteve](https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/HUN-2015-Budapest-St._Stephen%27s_Basilica.jpg/1280px-HUN-2015-Budapest-St._Stephen%27s_Basilica.jpg)
 
 ## Què fer
 
@@ -135,6 +137,22 @@ Temps
 
 ---
 
+## [Palau Gresham](https://www.google.com/maps/place/Gresham+Palace)
+
+![Palau Gresham](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Gresham_Palace_Budapest_2009-12.jpg/1280px-Gresham_Palace_Budapest_2009-12.jpg)
+
+Edifici modernista espectacular. Actualment és l'hotel Four Seasons.
+
+---
+
+## [Pont de les Cadenes](https://www.google.com/maps/place/Chain+Bridge)
+
+![Pont de les Cadenes de nit](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Sz%C3%A9chenyi_Chain_Bridge_in_Budapest_at_night.jpg/1280px-Sz%C3%A9chenyi_Chain_Bridge_in_Budapest_at_night.jpg)
+
+El pont més famós de Budapest. Construït el 1849.
+
+---
+
 ## 12:15
 
 Baixarem caminant cap al [Mercat Central](https://www.google.com/maps/place/Central+Market+Hall).
@@ -152,6 +170,8 @@ Temps
 ## 13:00
 
 [Mercat Central](https://www.google.com/maps/place/Central+Market+Hall)
+
+![Mercat Central](https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Central_Market_Hall_Budapest_1.jpg/1280px-Central_Market_Hall_Budapest_1.jpg)
 
 Aquí no cal córrer.
 
@@ -224,6 +244,8 @@ No cal transport públic.
 
 ## [Banys Rudas](https://www.google.com/maps/place/Rudas+Baths)
 
+![Banys Rudas](https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Rudas_Baths_central_part_and_Gellert_Hill_in_Tab%C3%A1n%2C_2016_Budapest.jpg/1280px-Rudas_Baths_central_part_and_Gellert_Hill_in_Tab%C3%A1n%2C_2016_Budapest.jpg)
+
 Temps
 
 2 hores i mitja.
@@ -259,6 +281,8 @@ Sortint dels banys.
 Ruta
 
 [Pont Elisabet](https://www.google.com/maps/place/Elizabeth+Bridge) → Riba del Danubi → [Pont de la Llibertat](https://www.google.com/maps/place/Liberty+Bridge).
+
+![Pont Elisabet](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Elisabeth_Bridge%2C_Budapest_-_Sarah_Stierch.jpg/1280px-Elisabeth_Bridge%2C_Budapest_-_Sarah_Stierch.jpg)
 
 Quan comença a fer-se fosc, Budapest canvia completament.
 

@@ -2,7 +2,7 @@
 
 ## Arribada · Check-in · Danubi · Basílica · Sopar
 
-![Budapest Danube](https://images.unsplash.com/photo-1549921286-0007e5cd3a34?w=1200&q=80)
+![Budapest Danube panorama](https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/19-10-03-Margarethenbr%C3%BCcke_und_Margaretheninsel-RalfR.jpg/1280px-19-10-03-Margarethenbr%C3%BCcke_und_Margaretheninsel-RalfR.jpg)
 
 ## Objectiu del dia
 
@@ -18,8 +18,6 @@ No és un dia per córrer.
 
 ## 14:30 Arribada a l'aeroport
 
-![Budapest Airport](https://images.unsplash.com/photo-1436491865332-7a61a109db05?w=1200&q=80)
-
 Calcularem:
 
 * Aterratge
@@ -30,7 +28,7 @@ Sortida aproximada:
 
 **15:15–15:30**
 
-📍 [Budapest Airport (BUD)](https://www.google.com/maps/place/Aeroport+Internacional+de+Budapest/@47.4385196,19.2514556,17z/data=!3m1!4b1!4m6!3m5!1s0x4741c1a4fe39860b:0x4ca4f6a650439aa1!8m2!3d47.438516!4d19.2540305!16zL20vMDU5cHFo?entry=ttu&g_ep=EgoyMDI2MDcyOC4wIKXMDSoASAFQAw%3D%3D)
+📍 [Budapest Airport (BUD)](https://www.google.com/maps/place/Aeroport+Internacional+de+Budapest/@47.4385196,19.2514556,17z)
 
 ---
 
@@ -92,7 +90,7 @@ Tot caminant.
 
 ## Ruta
 
-[Hotel](https://www.google.com/maps/place/Bohem+Art+Hotel/@47.4886147,19.0529807,16z/data=!3m1!4b1!4m9!3m8!1s0x4741dc45799c2961:0xd9dd2edb383b5b61!5m2!4m1!1i2!8m2!3d47.4886111!4d19.0555556!16s%2Fg%2F1tgd591l?entry=ttu&g_ep=EgoyMDI2MDcyOC4wIKXMDSoASAFQAw%3D%3D) → [Mercat Central](https://www.google.com/maps/place/Central+Market+Hall/@47.4870884,19.0559181,17z/data=!3m2!4b1!5s0x4741dc5016c9c5af:0x1409a8efbfd92232!4m6!3m5!1s0x4741dc4fe2b1c2f7:0xa08c351e7bba2ecc!8m2!3d47.4870848!4d19.058493!16zL20vMGZ0MXI1?entry=ttu&g_ep=EgoyMDI2MDcyOC4wIKXMDSoASAFQAw%3D%3D) → [Pont de la Llibertat](https://www.google.com/maps/place/Szabads%C3%A1g+h%C3%ADd/@47.4859167,19.0502732,17z/data=!3m1!4b1!4m6!3m5!1s0x4741ddf4021038d9:0x8a9969cd62878caf!8m2!3d47.4859132!4d19.0551441!16s%2Fg%2F11rhjdz4fq?entry=ttu&g_ep=EgoyMDI2MDcyOC4wIKXMDSoASAFQAw%3D%3D) → Riba del Danubi → [Vigadó](https://www.google.com/maps/place/Vigad%C3%B3+Concert+Hall/@47.4959451,19.046775,17z/data=!3m1!4b1!4m6!3m5!1s0x4741dc409f0b2279:0xc353a407f61bde5c!8m2!3d47.4959415!4d19.0493499!16zL20vMGJwdnF0?entry=ttu&g_ep=EgoyMDI2MDcyOC4wIKXMDSoASAFQAw%3D%3D) → [Plaça Vigadó](https://www.google.com/maps/place/Vigad%C3%B3+t%C3%A9r/@47.4957232,19.0463139,17z/data=!3m1!4b1!4m6!3m5!1s0x4741dc3f6078d067:0xe1c4b42209cb6a38!8m2!3d47.4957196!4d19.0488888!16s%2Fg%2F1213vdxx?entry=ttu&g_ep=EgoyMDI2MDcyOC4wIKXMDSoASAFQAw%3D%3D) → [Basílica](https://www.google.com/maps/place/Bas%C3%ADlica+de+Sant+Esteve/@47.5008938,19.0514138,17z/data=!3m1!4b1!4m6!3m5!1s0x4741c15e3aa3cdf7:0xdd42fcacae7fbccb!8m2!3d47.5008902!4d19.0539887!16zL20vMDQwM3N0?entry=ttu&g_ep=EgoyMDI2MDcyOC4wIKXMDSoASAFQAw%3D%3D)
+[Hotel](https://www.google.com/maps/place/Bohem+Art+Hotel/@47.4886147,19.0529807,16z/data=!3m1!4b1!4m9!3m8!1s0x4741dc45799c2961:0xd9dd2edb383b5b61!5m2!4m1!1i2!8m2!3d47.4886111!4d19.0555556!16s%2Fg%2F1tgd591l?entry=ttu&g_ep=EgoyMDI2MDcyOC4wIKXMDSoASAFQAw%3D%3D) → [Mercat Central](https://www.google.com/maps/place/Central+Market+Hall/@47.4870884,19.0559181,17z/data=!3m2!4b1!5s0x4741dc5016c9c5af:0x1409a8efbfd92232!4m6!3m5!1s0x4741dc4fe2b1c2f7:0xa08c351e7bba2ecc!8m2!3d47.4870848!4d19.058493!16zL20vMGZ0MXI1?entry=ttu&g_ep=EgoyMDI2MDcyOC4wIKXMDSoASAFQAw%3D%3D) → [Pont de la Llibertat](https://www.google.com/maps/place/Szabads%C3%A1g+h%C3%ADd/@47.4870884,19.0559181,17z/data=!3m1!5s0x4741dc5016c9c5af:0x1409a8efbfd92232!4m14!1m7!3m6!1s0x4741dc4fe2b1c2f7:0xa08c351e7bba2ecc!2sCentral+Market+Hall!8m2!3d47.4870848!4d19.058493!16zL20vMGZ0MXI1!3m5!1s0x4741ddf4021038d9:0x8a9969cd62878caf!8m2!3d47.4859132!4d19.0551441!16s%2Fg%2F11rhjdz4fq?entry=ttu&g_ep=EgoyMDI2MDcyOC4wIKXMDSoASAFQAw%3D%3D) → Riba del Danubi → [Vigadó](https://www.google.com/maps/place/Vigad%C3%B3+Concert+Hall/@47.4958216,19.0494259,18.46z/data=!3m1!5s0x4741dc5016c9c5af:0x1409a8efbfd92232!4m14!1m7!3m6!1s0x4741dc4fe2b1c2f7:0xa08c351e7bba2ecc!2sCentral+Market+Hall!8m2!3d47.4870848!4d19.058493!16zL20vMGZ0MXI1!3m5!1s0x4741dc409f0b2279:0xc353a407f61bde5c!8m2!3d47.4959415!4d19.0493499!16zL20vMGJwdnF0?entry=ttu&g_ep=EgoyMDI2MDcyOC4wIKXMDSoASAFQAw%3D%3D) → [Plaça Vigadó](https://www.google.com/maps/place/Vigad%C3%B3+t%C3%A9r/@47.49566,19.0488629,19.62z/data=!3m1!5s0x4741dc5016c9c5af:0x1409a8efbfd92232!4m14!1m7!3m6!1s0x4741dc4fe2b1c2f7:0xa08c351e7bba2ecc!2sCentral+Market+Hall!8m2!3d47.4870848!4d19.058493!16zL20vMGZ0MXI1!3m5!1s0x4741dc3f6078d067:0xe1c4b42209cb6a38!8m2!3d47.4957196!4d19.0488888!16s%2Fg%2F1213vdxx?entry=ttu&g_ep=EgoyMDI2MDcyOC4wIKXMDSoASAFQAw%3D%3D) → [Basílica](https://www.google.com/maps/place/Bas%C3%ADlica+de+Sant+Esteve/@47.4984977,19.044658,16.13z/data=!3m1!5s0x4741dc5016c9c5af:0x1409a8efbfd92232!4m14!1m7!3m6!1s0x4741dc4fe2b1c2f7:0xa08c351e7bba2ecc!2sCentral+Market+Hall!8m2!3d47.4870848!4d19.058493!16zL20vMGZ0MXI1!3m5!1s0x4741c15e3aa3cdf7:0xdd42fcacae7fbccb!8m2!3d47.5008902!4d19.0539887!16zL20vMDQwM3N0?entry=ttu&g_ep=EgoyMDI2MDcyOC4wIKXMDSoASAFQAw%3D%3D)
 
 ---
 
@@ -108,7 +106,9 @@ però sense comptar les aturades.
 
 ## 17:40
 
-## [Mercat Central](https://www.google.com/maps/place/Central+Market+Hall/@47.4870884,19.0559181,17z/data=!3m2!4b1!5s0x4741dc5016c9c5af:0x1409a8efbfd92232!4m6!3m5!1s0x4741dc4fe2b1c2f7:0xa08c351e7bba2ecc!8m2!3d47.4870848!4d19.058493!16zL20vMGZ0MXI1?entry=ttu&g_ep=EgoyMDI2MDcyOC4wIKXMDSoASAFQAw%3D%3D)
+## [Mercat Central](https://www.google.com/maps/place/Central+Market+Hall)
+
+![Mercat Central Budapest](https://www.google.com/maps/place/Central+Market+Hall/@47.4870884,19.0559181,17z/data=!3m2!4b1!5s0x4741dc5016c9c5af:0x1409a8efbfd92232!4m6!3m5!1s0x4741dc4fe2b1c2f7:0xa08c351e7bba2ecc!8m2!3d47.4870848!4d19.058493!16zL20vMGZ0MXI1?entry=ttu&g_ep=EgoyMDI2MDcyOC4wIKXMDSoASAFQAw%3D%3D)
 
 No entrarem.
 
@@ -119,6 +119,8 @@ Demà ja hi dedicarem temps.
 ---
 
 ## [Pont de la Llibertat](https://www.google.com/maps/place/Szabads%C3%A1g+h%C3%ADd/@47.4870884,19.0559181,17z/data=!3m1!5s0x4741dc5016c9c5af:0x1409a8efbfd92232!4m14!1m7!3m6!1s0x4741dc4fe2b1c2f7:0xa08c351e7bba2ecc!2sCentral+Market+Hall!8m2!3d47.4870848!4d19.058493!16zL20vMGZ0MXI1!3m5!1s0x4741ddf4021038d9:0x8a9969cd62878caf!8m2!3d47.4859132!4d19.0551441!16s%2Fg%2F11rhjdz4fq?entry=ttu&g_ep=EgoyMDI2MDcyOC4wIKXMDSoASAFQAw%3D%3D)
+
+![Pont de la Llibertat](https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Szabads%C3%A1g_h%C3%ADd.jpg/1280px-Szabads%C3%A1g_h%C3%ADd.jpg)
 
 Per mi és
 
@@ -162,7 +164,9 @@ Aquest és un dels meus passejos preferits.
 
 ---
 
-## [Vigadó](https://www.google.com/maps/place/Vigad%C3%B3+Concert+Hall/@47.4959451,19.046775,17z/data=!3m1!4b1!4m6!3m5!1s0x4741dc409f0b2279:0xc353a407f61bde5c!8m2!3d47.4959415!4d19.0493499!16zL20vMGJwdnF0?entry=ttu&g_ep=EgoyMDI2MDcyOC4wIKXMDSoASAFQAw%3D%3D)
+## [Vigadó](https://www.google.com/maps/place/Vigad%C3%B3+Concert+Hall/@47.4957567,19.0495813,18.17z/data=!3m1!5s0x4741dc5016c9c5af:0x1409a8efbfd92232!4m14!1m7!3m6!1s0x4741dc4fe2b1c2f7:0xa08c351e7bba2ecc!2sCentral+Market+Hall!8m2!3d47.4870848!4d19.058493!16zL20vMGZ0MXI1!3m5!1s0x4741dc409f0b2279:0xc353a407f61bde5c!8m2!3d47.4959415!4d19.0493499!16zL20vMGJwdnF0?entry=ttu&g_ep=EgoyMDI2MDcyOC4wIKXMDSoASAFQAw%3D%3D)
+
+![Vigadó Concert Hall](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Pesti_Vigad%C3%B3.jpg/1280px-Pesti_Vigad%C3%B3.jpg)
 
 Val la pena entrar-hi uns minuts.
 
@@ -170,7 +174,7 @@ Normalment hi ha exposicions gratuïtes al vestíbul.
 
 ---
 
-## [Plaça Vigadó](https://www.google.com/maps/place/Vigad%C3%B3+t%C3%A9r)
+## [Plaça Vigadó](https://www.google.com/maps/place/Vigad%C3%B3+t%C3%A9r/@47.4957567,19.0495813,18.17z/data=!3m1!5s0x4741dc5016c9c5af:0x1409a8efbfd92232!4m14!1m7!3m6!1s0x4741dc4fe2b1c2f7:0xa08c351e7bba2ecc!2sCentral+Market+Hall!8m2!3d47.4870848!4d19.058493!16zL20vMGZ0MXI1!3m5!1s0x4741dc3f6078d067:0xe1c4b42209cb6a38!8m2!3d47.4957196!4d19.0488888!16s%2Fg%2F1213vdxx?entry=ttu&g_ep=EgoyMDI2MDcyOC4wIKXMDSoASAFQAw%3D%3D)
 
 Aquí hi ha molt ambient.
 
@@ -184,7 +188,9 @@ Artistes.
 
 ---
 
-## [Basílica de Sant Esteve](https://www.google.com/maps/place/Vigad%C3%B3+t%C3%A9r/@47.495844,19.0483022,18.17z/data=!4m14!1m7!3m6!1s0x4741dc409f0b2279:0xc353a407f61bde5c!2sVigad%C3%B3+Concert+Hall!8m2!3d47.4959415!4d19.0493499!16zL20vMGJwdnF0!3m5!1s0x4741dc3f5c3c5f85:0x3395eef80917324c!8m2!3d47.49555!4d19.04837!16s%2Fg%2F1tj8863y?entry=ttu&g_ep=EgoyMDI2MDcyOC4wIKXMDSoASAFQAw%3D%3D)
+## [Basílica de Sant Esteve](https://www.google.com/maps/place/Bas%C3%ADlica+de+Sant+Esteve/@47.4987341,19.0461851,16.71z/data=!3m1!5s0x4741dc5016c9c5af:0x1409a8efbfd92232!4m14!1m7!3m6!1s0x4741dc4fe2b1c2f7:0xa08c351e7bba2ecc!2sCentral+Market+Hall!8m2!3d47.4870848!4d19.058493!16zL20vMGZ0MXI1!3m5!1s0x4741c15e3aa3cdf7:0xdd42fcacae7fbccb!8m2!3d47.5008902!4d19.0539887!16zL20vMDQwM3N0?entry=ttu&g_ep=EgoyMDI2MDcyOC4wIKXMDSoASAFQAw%3D%3D)
+
+![Basílica de Sant Esteve](https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/HUN-2015-Budapest-St._Stephen%27s_Basilica.jpg/1280px-HUN-2015-Budapest-St._Stephen%27s_Basilica.jpg)
 
 Arribareu cap a
 
@@ -204,7 +210,7 @@ Demà ja la visitarem tranquil·lament.
 
 Aquí us recomano
 
-**[Gelarto Rosa](https://www.google.com/maps/place/Gelarto+Rosa/@47.500818,19.0505349,17z/data=!4m10!1m2!2m1!1sgelarto+rosa!3m6!1s0x4741dc6ac868e143:0x2793f0c5793b499f!8m2!3d47.5014152!4d19.0531327!15sCgxnZWxhcnRvIHJvc2FaDiIMZ2VsYXJ0byByb3NhkgEOaWNlX2NyZWFtX3Nob3DgAQA!16s%2Fg%2F12hpr3k1l?entry=ttu&g_ep=EgoyMDI2MDcyOC4wIKXMDSoASAFQAw%3D%3D)**
+**[Gelarto Rosa](https://www.google.com/maps/place/Gelarto+Rosa/@47.5014188,19.0505578,17z/data=!3m1!4b1!4m6!3m5!1s0x4741dc6ac868e143:0x2793f0c5793b499f!8m2!3d47.5014152!4d19.0531327!16s%2Fg%2F12hpr3k1l?entry=ttu&g_ep=EgoyMDI2MDcyOC4wIKXMDSoASAFQAw%3D%3D)**
 
 Sí.
 
@@ -222,7 +228,9 @@ Després de la Basílica
 
 anirem caminant fins a
 
-**[Plaça de la Llibertat](https://www.google.com/maps/place/Budapest,+Szabads%C3%A1g+t%C3%A9r,+Hongria/@47.5038884,19.0482162,17z/data=!4m15!1m8!3m7!1s0x4741dc147c3de1ff:0x89d89edec3b2f6ae!2sBudapest,+Szabads%C3%A1g+t%C3%A9r,+Hongria!3b1!8m2!3d47.5038848!4d19.0507911!16s%2Fg%2F1tdpdzjz!3m5!1s0x4741dc147c3de1ff:0x89d89edec3b2f6ae!8m2!3d47.5038848!4d19.0507911!16s%2Fg%2F1tdpdzjz?entry=ttu&g_ep=EgoyMDI2MDcyOC4wIKXMDSoASAFQAw%3D%3D)**
+**[Plaça de la Llibertat](https://www.google.com/maps/place/Budapest,+Szabads%C3%A1g+t%C3%A9r,+Hongria/@47.5038884,19.0482162,17z/data=!3m1!4b1!4m6!3m5!1s0x4741dc147c3de1ff:0x89d89edec3b2f6ae!8m2!3d47.5038848!4d19.0507911!16s%2Fg%2F1tdpdzjz?entry=ttu&g_ep=EgoyMDI2MDcyOC4wIKXMDSoASAFQAw%3D%3D)**
+
+![Plaça de la Llibertat](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Szabads%C3%A1g_t%C3%A9r.jpg/1280px-Szabads%C3%A1g_t%C3%A9r.jpg)
 
 És una plaça molt tranquil·la.
 
@@ -257,11 +265,13 @@ Reserva abans de marxar de Barcelona.
 
 ## Després de sopar
 
+![](https://ruinbarsbudapest.com/wp-content/uploads/2019/02/10974292_874900982570870_283293394937919960_o.jpg)
+
 Si encara teniu energia...
 
 Us proposo anar fins a
 
-## [Csendes Vintage Bar](https://www.google.com/maps/place/Csendes+L%C3%A9tterem+-+Vintage+Bar+%26+Caf%C3%A9/@47.4928152,19.0578079,17z/data=!3m1!4b1!4m6!3m5!1s0x4741dc435dc5fcb5:0x586f90eb228360de!8m2!3d47.4928116!4d19.0603828!16s%2Fg%2F1263qm76t?entry=ttu&g_ep=EgoyMDI2MDcyOC4wIKXMDSoASAFQAw%3D%3D)
+## [Csendes Vintage Bar](https://www.google.com/maps/place/Csendes+L%C3%A9tterem+-+Vintage+Bar+%26+Caf%C3%A9/@47.4928508,19.0602661,17z/data=!4m15!1m8!3m7!1s0x4741dc435dc5fcb5:0x586f90eb228360de!2sCsendes+L%C3%A9tterem+-+Vintage+Bar+%26+Caf%C3%A9!8m2!3d47.4928116!4d19.0603828!10e5!16s%2Fg%2F1263qm76t!3m5!1s0x4741dc435dc5fcb5:0x586f90eb228360de!8m2!3d47.4928116!4d19.0603828!16s%2Fg%2F1263qm76t?entry=ttu&g_ep=EgoyMDI2MDcyOC4wIKXMDSoASAFQAw%3D%3D)
 
 És molt més tranquil que Szimpla.
 
