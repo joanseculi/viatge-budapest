@@ -2,13 +2,15 @@
 
 ## Basílica · Mercat Central · Rudas · Passeig nocturn
 
+![Budapest Parliament](https://images.unsplash.com/photo-1549921286-0007e5cd3a34?w=1200&q=80)
+
 **Temps caminant aproximat:** 10-12 km durant tot el dia.
 
 ---
 
 ## 08:30 – Sortida de l'hotel
 
-Sortida del **Bohem Art Hotel**.
+Sortida del [Bohem Art Hotel](https://www.google.com/maps/place/Bohem+Art+Hotel).
 
 No cal transport.
 
@@ -18,7 +20,7 @@ Tot el matí el farem caminant.
 
 ## 08:30 → 09:00
 
-🚶 Caminar fins a la Basílica de Sant Esteve
+🚶 Caminar fins a la [Basílica de Sant Esteve](https://www.google.com/maps/place/St.+Stephen%27s+Basilica)
 
 Distància:
 
@@ -30,19 +32,13 @@ Temps:
 
 Ruta recomanada
 
-Hotel →
-
-Váci utca →
-
-Deák Ferenc tér →
-
-Basílica
+Hotel → [Váci utca](https://www.google.com/maps/place/V%C3%A1ci+utca) → [Deák Ferenc tér](https://www.google.com/maps/place/De%C3%A1k+Ferenc+t%C3%A9r) → Basílica
 
 Aquesta caminada és molt agradable perquè el centre encara està bastant tranquil.
 
 ---
 
-## 09:00 – Basílica de Sant Esteve
+## 09:00 – [Basílica de Sant Esteve](https://www.google.com/maps/place/St.+Stephen%27s+Basilica)
 
 ## Què fer
 
@@ -98,7 +94,7 @@ Baixar de la torre.
 
 Cafè
 
-## ☕ Espresso Embassy
+## ☕ [Espresso Embassy](https://www.google.com/maps/place/Espresso+Embassy)
 
 10 minuts caminant.
 
@@ -111,7 +107,7 @@ Demana:
 * Flat White
 * Cappuccino
 
-Si prefereixes un lloc més històric, també podem substituir-la pel **Central Café**, però personalment crec que l'ambient i el cafè d'**Espresso Embassy** són millors.
+Si prefereixes un lloc més històric, també podem substituir-la pel [Central Café](https://www.google.com/maps/place/Central+Caf%C3%A9), però personalment crec que l'ambient i el cafè d'**Espresso Embassy** són millors.
 
 Temps
 
@@ -125,13 +121,7 @@ Passeig pel centre
 
 Ruta
 
-Espresso Embassy →
-
-Plaça de la Llibertat →
-
-Palau Gresham →
-
-Pont de les Cadenes.
+Espresso Embassy → [Plaça de la Llibertat](https://www.google.com/maps/place/Szabads%C3%A1g+t%C3%A9r) → [Palau Gresham](https://www.google.com/maps/place/Gresham+Palace) → [Pont de les Cadenes](https://www.google.com/maps/place/Chain+Bridge).
 
 No entrarem encara al pont.
 
@@ -147,17 +137,11 @@ Temps
 
 ## 12:15
 
-Baixarem caminant cap al Mercat Central.
+Baixarem caminant cap al [Mercat Central](https://www.google.com/maps/place/Central+Market+Hall).
 
 Ruta
 
-Danubi →
-
-Vigadó →
-
-Váci utca →
-
-Mercat Central.
+Danubi → [Vigadó](https://www.google.com/maps/place/Vigad%C3%B3+Concert+Hall) → [Váci utca](https://www.google.com/maps/place/V%C3%A1ci+utca) → Mercat Central.
 
 Temps
 
@@ -167,7 +151,7 @@ Temps
 
 ## 13:00
 
-Mercat Central
+[Mercat Central](https://www.google.com/maps/place/Central+Market+Hall)
 
 Aquí no cal córrer.
 
@@ -202,7 +186,7 @@ Especialment:
 
 Sortir del mercat i anar caminant fins a
 
-**Gettó Gulyás**
+**[Gettó Gulyás](https://www.google.com/maps/place/Gett%C3%B3+Guly%C3%A1s)**
 
 Uns 18-20 minuts a peu des del Mercat Central.
 
@@ -220,7 +204,7 @@ Descans de 20-30 minuts.
 
 ## 16:15
 
-Sortida cap als Banys Rudas.
+Sortida cap als [Banys Rudas](https://www.google.com/maps/place/Rudas+Baths).
 
 ## Com arribar
 
@@ -238,7 +222,7 @@ No cal transport públic.
 
 ## 16:30 – 19:00
 
-## Banys Rudas
+## [Banys Rudas](https://www.google.com/maps/place/Rudas+Baths)
 
 Temps
 
@@ -274,11 +258,7 @@ Sortint dels banys.
 
 Ruta
 
-Pont Elisabet →
-
-Riba del Danubi →
-
-Pont de la Llibertat.
+[Pont Elisabet](https://www.google.com/maps/place/Elizabeth+Bridge) → Riba del Danubi → [Pont de la Llibertat](https://www.google.com/maps/place/Liberty+Bridge).
 
 Quan comença a fer-se fosc, Budapest canvia completament.
 
@@ -290,21 +270,21 @@ Les vistes sobre el Parlament i el Castell de Buda són magnífiques.
 
 ## ⭐ Prioritat 1
 
-**Menza**
+**[Menza](https://www.google.com/maps/place/Menza+Restaurant)**
 
 És una molt bona opció per a una primera experiència gastronòmica a Budapest. Com que és un restaurant popular, et recomano reservar amb antelació.
 
 Per arribar-hi des de Rudas:
 
-* 🚶 10 minuts fins a **Ferenciek tere**.
-* 🚇 **Metro M1** des de **Deák Ferenc tér** fins a **Oktogon**.
+* 🚶 10 minuts fins a [Ferenciek tere](https://www.google.com/maps/place/Ferenciek+tere).
+* 🚇 **Metro M1** des de [Deák Ferenc tér](https://www.google.com/maps/place/De%C3%A1k+Ferenc+t%C3%A9r) fins a [Oktogon](https://www.google.com/maps/place/Oktogon).
 * 🚶 2 minuts fins al restaurant.
 
 Temps total: uns **25-30 minuts**.
 
 ## Alternativa
 
-**Gettó Gulyás**
+**[Gettó Gulyás](https://www.google.com/maps/place/Gett%C3%B3+Guly%C3%A1s)**
 
 També és una excel·lent opció si prefereixes mantenir-te pel centre i tastar cuina hongaresa tradicional.
 

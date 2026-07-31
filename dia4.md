@@ -2,19 +2,7 @@
 
 ## Excursió a Szentendre
 
-![Image](https://images.openai.com/static-rsc-4/tDO2NNJGb8iKRT3LqD70DsG_cfcz_qFstU15M-wqQLl9EMrpjl6Towzx5gcA-V246GKzhiIy-I8dFTgy5-A_fpt39xL4JKtO6p_XsSyiDmj5b77sLYhwZ7PJ2r2cPhr5IdmCpJwv5nm0b5AYAetksA_W2j3muQ9QdSMZsq3qaaCQFOBFDEJUqP0EgzVOLh9l?purpose=fullsize)
-
-![Image](https://images.openai.com/static-rsc-4/lAtoZ3-Mr-G62EqB7vOr8ArBb_juyr2tU6V1wMjuK8c2_o3rl-C1mCi7iwXqHthAhJ5nOPrO63xSKjGw-Z8WKXEuIh9L-DmRpcBa-OOt9pMsjKG7_43ai5DfeHDWBu0hfNVQXu-zVuVhFmon_ErgOmyIIBSJMuSIACTH-TUbe0cyRSJJS21iB3QfO5Rq4rqp?purpose=fullsize)
-
-![Image](https://images.openai.com/static-rsc-4/a7g8bhaMFQdnH3MQxv782tr4ID0358909w_AM2nwlbKdAG-YvVuSp3TGh2DfKWtVMWYHq0umXT2r-9GveeL_MNkNeWvpMaYZdfEN1IJX2qCBg1BU2z17rJTkpICXZWfKGyjXP_0sYQsaGVZ2rG-8PW0nAwlzF1UlGiDcvVucVp1nBRowKWTA0OxXupDX4Ue4?purpose=fullsize)
-
-![Image](https://images.openai.com/static-rsc-4/f76I6Z57ULpkJTBibS2s8Im3IXdrutHzTG9duLuz_ssBLunIEa9dddbWUf0n59pY_DNzXtVZRFh-gLwSOi4Wv6uC0HRQPDgiQ09jB-AGx9YIjvQ-3fu4_yRTCW1HLoIHG3t46JGQ1h-Bv3AstdXmOSqzHl0Vc1x51NchAa8RV4gR2HGYYYwqEY6p8tMcs0EM?purpose=fullsize)
-
-![Image](https://images.openai.com/static-rsc-4/W2otRPmViKYG8EfkRWrg_PAiUMMflbKYVDxtSsJQkIGT3b0mbCQTfJuEOhQvCmsl-DtpbEBA7m9OngdJwHrEHSD_OgPNicXaD-MOuGfSFhhbwJPkzKActP6RHi_N9A4sIQvEz2xF8FPwJNPVFz3v0h9Wzj0X394L5MlgVAI2MSYjC7U59x2cOtnjN5v2p3xV?purpose=fullsize)
-
-![Image](https://images.openai.com/static-rsc-4/8QxXLz-Gkge32r_vRHeG6_D3GLDAHu3WmL7wjS6quL-NVnzY6lNOx8oE250_yNL3O4l7EMGpSFCfiphkzTgXJ0c3bFtSFNikaiEISB9L3Nycf2IIvo5zNx9-ywnqw_lIfd6HyPqLZErTdSCZIZvVNt0sOY41rnBTC4HHW4MoATAKCUD7nPu_BXhIb0reQnQL?purpose=fullsize)
-
----
+![Szentendre](https://images.unsplash.com/photo-1549921286-0007e5cd3a34?w=1200&q=80)
 
 ## Objectiu del dia
 
@@ -46,11 +34,7 @@ Uns **20 minuts**.
 
 Ruta
 
-Hotel →
-
-Danubi →
-
-**Vigadó tér**
+Hotel → Danubi → [Vigadó tér](https://www.google.com/maps/place/Vigad%C3%B3+t%C3%A9r)
 
 Aquí és on acostumen a sortir els vaixells turístics cap a Szentendre.
 
@@ -62,16 +46,9 @@ Et recomano comprar-los **abans del viatge**.
 
 **Web oficial:**
 
-**MAHART PassNave**
+**[MAHART PassNave](https://www.mahart.hu)**
 
 És l'operador principal dels vaixells pel Danubi.
-
-A la guia final hi afegiré:
-
-* enllaç directe de compra,
-* preus actualitzats,
-* moll exacte,
-* i l'horari definitiu de l'agost de 2026.
 
 ---
 
@@ -109,6 +86,8 @@ Cap a les
 
 **11:00**
 
+📍 [Szentendre](https://www.google.com/maps/place/Szentendre)
+
 ---
 
 ## Què fer?
@@ -129,6 +108,8 @@ Botigues d'art.
 
 Galeries.
 
+📍 [Szentendre Casc Antic](https://www.google.com/maps/place/Szentendre+Old+Town)
+
 ---
 
 ## 2. Passeig del Danubi
@@ -147,11 +128,13 @@ Vaixells.
 
 Molta tranquil·litat.
 
+📍 [Szentendre Danube Promenade](https://www.google.com/maps/place/Szentendre+Danube+Promenade)
+
 ---
 
 ## 3. Cafè
 
-## ☕ Café La Mocca
+## ☕ [Café La Mocca](https://www.google.com/maps/place/Caf%C3%A9+La+Mocca)
 
 Una de les cafeteries més agradables del poble.
 
@@ -163,7 +146,7 @@ Perfecta per descansar una estona.
 
 Et recomano el
 
-**Museu Marzipan**
+**[Museu Marzipan](https://www.google.com/maps/place/Marzipan+Museum)**
 
 No és gaire gran.
 
@@ -193,13 +176,13 @@ Evitaria els imants i records típics.
 
 ## Prioritat
 
-**Mjam Gastro**
+**[Mjam Gastro](https://www.google.com/maps/place/Mjam+Gastro)**
 
 És una molt bona opció si busques cuina moderna feta amb producte local.
 
 Alternativa més tradicional:
 
-**Kacsakő Bisztró**, situat a tocar del Danubi, ideal per dinar amb vistes.
+**[Kacsakő Bisztró](https://www.google.com/maps/place/Kacsak%C5%91+Bisztr%C3%B3)**, situat a tocar del Danubi, ideal per dinar amb vistes.
 
 ---
 
@@ -209,7 +192,7 @@ Opció A (la meva preferida)
 
 ## Tornar en HÉV H5
 
-Des de l'estació de **Szentendre**.
+Des de l'estació de [Szentendre](https://www.google.com/maps/place/Szentendre+Train+Station).
 
 Temps:
 
@@ -217,13 +200,13 @@ Uns **40 minuts**.
 
 Baixar a:
 
-**Batthyány tér**
+[Batthyány tér](https://www.google.com/maps/place/Batthy%C3%A1ny+t%C3%A9r)
 
 Després:
 
-🚇 Metro **M2** fins a **Deák Ferenc tér**.
+🚇 Metro **M2** fins a [Deák Ferenc tér](https://www.google.com/maps/place/De%C3%A1k+Ferenc+t%C3%A9r).
 
-🚇 Metro **M3** fins a **Kálvin tér**.
+🚇 Metro **M3** fins a [Kálvin tér](https://www.google.com/maps/place/K%C3%A1lvin+t%C3%A9r).
 
 🚶 8 minuts fins a l'hotel.
 
@@ -271,7 +254,7 @@ Una hora a l'hotel.
 
 ## Sopar
 
-## ⭐ Menza
+## ⭐ [Menza](https://www.google.com/maps/place/Menza+Restaurant)
 
 Si encara no hi has anat,
 
@@ -285,7 +268,7 @@ Reserva.
 
 Si Menza està complet,
 
-**Gulyás Leves**
+**[Gulyás Leves](https://www.google.com/maps/place/Guly%C3%A1s+Leves)**
 
 ---
 
@@ -293,7 +276,7 @@ Si Menza està complet,
 
 Et proposo acabar el dia passejant per
 
-**Andrássy út**.
+[Andrássy út](https://www.google.com/maps/place/Andr%C3%A1ssy+%C3%BAt).
 
 De nit és preciosa.
 

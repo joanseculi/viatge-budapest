@@ -2,6 +2,8 @@
 
 ## Últim passeig · Cafè · Compres · Aeroport
 
+![Budapest](https://images.unsplash.com/photo-1549921286-0007e5cd3a34?w=1200&q=80)
+
 ## Horari del vol
 
 ✈️ Sortida:
@@ -38,29 +40,9 @@ No agafarem metro.
 
 ---
 
-## Passeig
+## Ruta
 
-Hotel
-
-↓
-
-Mercat Central
-
-↓
-
-Váci utca
-
-↓
-
-Plaça Vörösmarty
-
-↓
-
-Danubi
-
-↓
-
-Hotel
+[Hotel](https://www.google.com/maps/place/Bohem+Art+Hotel) → [Mercat Central](https://www.google.com/maps/place/Central+Market+Hall) → [Váci utca](https://www.google.com/maps/place/V%C3%A1ci+utca) → [Plaça Vörösmarty](https://www.google.com/maps/place/V%C3%B6r%C3%B6smarty+t%C3%A9r) → Danubi → Hotel
 
 ---
 
@@ -72,7 +54,7 @@ Molt tranquil.
 
 ---
 
-## Váci utca
+## [Váci utca](https://www.google.com/maps/place/V%C3%A1ci+utca)
 
 Ara sí.
 
@@ -106,7 +88,7 @@ Sinó:
 
 ## Cafè
 
-## Central Café
+## [Central Café](https://www.google.com/maps/place/Central+Caf%C3%A9)
 
 Ara sí.
 
@@ -144,7 +126,7 @@ Recollir maletes.
 
 ### Bus 100E
 
-Des de **Kálvin tér**, que és a uns 8 minuts caminant del teu hotel.
+Des de [Kálvin tér](https://www.google.com/maps/place/K%C3%A1lvin+t%C3%A9r), que és a uns 8 minuts caminant del teu hotel.
 
 Temps aproximat:
 
@@ -228,25 +210,25 @@ No són els 10 més famosos.
 
 Són els 10 que crec que més gaudiràs.
 
-🥇 **1. Banys Rudas** (al capvespre)
+🥇 **1. [Banys Rudas](https://www.google.com/maps/place/Rudas+Baths)** (al capvespre)
 
-🥈 **2. Excursió a Szentendre**
+🥈 **2. Excursió a [Szentendre](https://www.google.com/maps/place/Szentendre)**
 
 🥉 **3. Tramvia 2**
 
-4. Pujar a la torre de la Basílica de Sant Esteve.
+4. Pujar a la torre de la [Basílica de Sant Esteve](https://www.google.com/maps/place/St.+Stephen%27s+Basilica).
 
-5. Sopar a **Gettó Gulyás**.
+5. Sopar a **[Gettó Gulyás](https://www.google.com/maps/place/Gett%C3%B3+Guly%C3%A1s)**.
 
-6. Sopar a **Pozsonyi Kisvendéglő**.
+6. Sopar a **[Pozsonyi Kisvendéglő](https://www.google.com/maps/place/Pozsonyi+Kisvend%C3%A9gl%C5%91)**.
 
 7. Passeig nocturn pel Danubi.
 
 8. Passeig pel barri d'Újlipótváros.
 
-9. Cafè al **Central Café**.
+9. Cafè al **[Central Café](https://www.google.com/maps/place/Central+Caf%C3%A9)**.
 
-10. Illa Margarida.
+10. [Illa Margarida](https://www.google.com/maps/place/Margaret+Island).
 
 ---
 
@@ -267,9 +249,9 @@ L'únic motiu pel qual no li poso un 10 és que, amb només quatre dies i mig, �
 
 Si aquest viatge fos meu, **reservaria abans de sortir de Barcelona** aquestes quatre coses:
 
-1. La pujada a la torre de la Basílica de Sant Esteve.
-2. Els banys **Rudas** (especialment si vols una franja horària concreta).
-3. El vaixell cap a **Szentendre**.
-4. Una taula per sopar a **Menza**.
+1. La pujada a la torre de la [Basílica de Sant Esteve](https://www.google.com/maps/place/St.+Stephen%27s+Basilica).
+2. Els banys **[Rudas](https://www.google.com/maps/place/Rudas+Baths)** (especialment si vols una franja horària concreta).
+3. El vaixell cap a **[Szentendre](https://www.google.com/maps/place/Szentendre)**.
+4. Una taula per sopar a **[Menza](https://www.google.com/maps/place/Menza+Restaurant)**.
 
-Són les activitats que tenen més risc d'esgotar places o d'acumular cues a principis d'agost, i reservar-les et permetrà gaudir del viatge amb molta més tranquil·litat.
+Són les activitat

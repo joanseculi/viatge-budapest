@@ -2,6 +2,8 @@
 
 ## Arribada · Check-in · Danubi · Basílica · Sopar
 
+![Budapest Danube](https://images.unsplash.com/photo-1549921286-0007e5cd3a34?w=1200&q=80)
+
 ## Objectiu del dia
 
 * Arribar sense presses.
@@ -16,6 +18,8 @@ No és un dia per córrer.
 
 ## 14:30 Arribada a l'aeroport
 
+![Budapest Airport](https://images.unsplash.com/photo-1436491865332-7a61a109db05?w=1200&q=80)
+
 Calcularem:
 
 * Aterratge
@@ -25,6 +29,8 @@ Calcularem:
 Sortida aproximada:
 
 **15:15–15:30**
+
+📍 [Budapest Airport (BUD)](https://www.google.com/maps/place/Budapest+Airport)
 
 ---
 
@@ -38,7 +44,7 @@ Sortida aproximada:
 
 Baixa a:
 
-**Kálvin tér**
+**[Kálvin tér](https://www.google.com/maps/place/K%C3%A1lvin+t%C3%A9r)**
 
 Temps aproximat:
 
@@ -46,7 +52,7 @@ Temps aproximat:
 
 Després:
 
-🚶 8 minuts caminant fins al Bohem Art Hotel.
+🚶 8 minuts caminant fins al [Bohem Art Hotel](https://www.google.com/maps/place/Bohem+Art+Hotel).
 
 ### Cost
 
@@ -84,31 +90,9 @@ Tot caminant.
 
 ---
 
-## Hotel
+## Ruta
 
-↓
-
-Mercat Central
-
-↓
-
-Pont de la Llibertat
-
-↓
-
-Riba del Danubi
-
-↓
-
-Vigadó
-
-↓
-
-Plaça Vigadó
-
-↓
-
-Basílica
+[Hotel](https://www.google.com/maps/place/Bohem+Art+Hotel) → [Mercat Central](https://www.google.com/maps/place/Central+Market+Hall) → [Pont de la Llibertat](https://www.google.com/maps/place/Liberty+Bridge) → Riba del Danubi → [Vigadó](https://www.google.com/maps/place/Vigad%C3%B3+Concert+Hall) → [Plaça Vigadó](https://www.google.com/maps/place/Vigad%C3%B3+t%C3%A9r) → [Basílica](https://www.google.com/maps/place/St.+Stephen%27s+Basilica)
 
 ---
 
@@ -124,7 +108,7 @@ però sense comptar les aturades.
 
 ## 17:40
 
-## Mercat Central
+## [Mercat Central](https://www.google.com/maps/place/Central+Market+Hall)
 
 No entrarem.
 
@@ -134,7 +118,7 @@ Demà ja hi dedicarem temps.
 
 ---
 
-## Pont de la Llibertat
+## [Pont de la Llibertat](https://www.google.com/maps/place/Liberty+Bridge)
 
 Per mi és
 
@@ -178,7 +162,7 @@ Aquest és un dels meus passejos preferits.
 
 ---
 
-## Vigadó
+## [Vigadó](https://www.google.com/maps/place/Vigad%C3%B3+Concert+Hall)
 
 Val la pena entrar-hi uns minuts.
 
@@ -186,7 +170,7 @@ Normalment hi ha exposicions gratuïtes al vestíbul.
 
 ---
 
-## Plaça Vigadó
+## [Plaça Vigadó](https://www.google.com/maps/place/Vigad%C3%B3+t%C3%A9r)
 
 Aquí hi ha molt ambient.
 
@@ -200,7 +184,7 @@ Artistes.
 
 ---
 
-## Basílica de Sant Esteve
+## [Basílica de Sant Esteve](https://www.google.com/maps/place/St.+Stephen%27s+Basilica)
 
 Arribareu cap a
 
@@ -220,7 +204,7 @@ Demà ja la visitarem tranquil·lament.
 
 Aquí us recomano
 
-**Gelarto Rosa**
+**[Gelarto Rosa](https://www.google.com/maps/place/Gelarto+Rosa)**
 
 Sí.
 
@@ -238,7 +222,7 @@ Després de la Basílica
 
 anirem caminant fins a
 
-**Plaça de la Llibertat**
+**[Plaça de la Llibertat](https://www.google.com/maps/place/Szabads%C3%A1g+t%C3%A9r)**
 
 És una plaça molt tranquil·la.
 
@@ -250,7 +234,7 @@ Arquitectura espectacular.
 
 ## Sopar
 
-## ⭐⭐⭐⭐⭐ Gettó Gulyás
+## ⭐⭐⭐⭐⭐ [Gettó Gulyás](https://www.google.com/maps/place/Gett%C3%B3+Guly%C3%A1s)
 
 És el restaurant que et recomano per a la primera nit.
 
@@ -277,7 +261,7 @@ Si encara teniu energia...
 
 Us proposo anar fins a
 
-## Csendes Vintage Bar
+## [Csendes Vintage Bar](https://www.google.com/maps/place/Csendes+Vintage+Bar)
 
 És molt més tranquil que Szimpla.
 

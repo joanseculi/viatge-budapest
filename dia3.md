@@ -2,13 +2,15 @@
 
 ## Újlipótváros · Parlament · Illa Margarida · Pozsonyi Kisvendéglő
 
+![Budapest Parliament](https://images.unsplash.com/photo-1549921286-0007e5cd3a34?w=1200&q=80)
+
 **Objectiu del dia**
 
 * Descobrir un barri on viuen molts habitants de Budapest.
 * Passejar sense presses.
 * Veure el Parlament des dels millors punts.
 * Fer un dels millors passejos pel Danubi.
-* Sopar a **Pozsonyi Kisvendéglő**.
+* Sopar a **[Pozsonyi Kisvendéglő](https://www.google.com/maps/place/Pozsonyi+Kisvend%C3%A9gl%C5%91)**.
 
 ---
 
@@ -22,7 +24,7 @@ Anirem amb un dels tramvies més bonics d'Europa.
 
 ## Hotel → Tramvia
 
-🚶 Caminar fins a **Fővám tér**
+🚶 Caminar fins a [Fővám tér](https://www.google.com/maps/place/F%C5%91v%C3%A1m+t%C3%A9r)
 
 Temps
 
@@ -36,7 +38,7 @@ Temps
 
 Direcció:
 
-**Jászai Mari tér**
+[Jászai Mari tér](https://www.google.com/maps/place/J%C3%A1szai+Mari+t%C3%A9r)
 
 Temps:
 
@@ -48,9 +50,9 @@ Uns **20 minuts**.
 
 Durant el trajecte passaràs davant de:
 
-* Pont de les Cadenes
-* Castell de Buda
-* Parlament
+* [Pont de les Cadenes](https://www.google.com/maps/place/Chain+Bridge)
+* [Castell de Buda](https://www.google.com/maps/place/Buda+Castle)
+* [Parlament](https://www.google.com/maps/place/Hungarian+Parliament+Building)
 * Danubi
 
 No miris el mòbil.
@@ -65,7 +67,7 @@ Les vistes són espectaculars.
 
 Baixar a
 
-**Jászai Mari tér**
+[Jászai Mari tér](https://www.google.com/maps/place/J%C3%A1szai+Mari+t%C3%A9r)
 
 ---
 
@@ -73,19 +75,7 @@ Baixar a
 
 Ruta
 
-Jászai Mari tér
-
-↓
-
-Parlament
-
-↓
-
-Sabates del Danubi
-
-↓
-
-Plaça Kossuth
+[Jászai Mari tér](https://www.google.com/maps/place/J%C3%A1szai+Mari+t%C3%A9r) → [Parlament](https://www.google.com/maps/place/Hungarian+Parliament+Building) → [Sabates del Danubi](https://www.google.com/maps/place/Shoes+on+the+Danube+Bank) → [Plaça Kossuth](https://www.google.com/maps/place/Kossuth+L%C3%A1jos+t%C3%A9r)
 
 Temps
 
@@ -129,11 +119,13 @@ Veureu:
 
 És el Budapest on viuen molts habitants de la ciutat.
 
+📍 [Újlipótváros](https://www.google.com/maps/place/%C3%9Ajlip%C3%B3tv%C3%A1ros)
+
 ---
 
 ## Cafè
 
-## Madal Café
+## [Madal Café](https://www.google.com/maps/place/Madal+Caf%C3%A9)
 
 Un dels millors cafès d'especialitat de Budapest.
 
@@ -147,7 +139,7 @@ Temps
 
 Ara caminarem per
 
-**Pozsonyi út**
+[Pozsonyi út](https://www.google.com/maps/place/Pozsonyi+%C3%BAt)
 
 És un carrer molt agradable.
 
@@ -166,7 +158,7 @@ Aquest carrer no surt gairebé mai a les guies.
 
 Dinar
 
-## Pozsonyi Kisvendéglő
+## [Pozsonyi Kisvendéglő](https://www.google.com/maps/place/Pozsonyi+Kisvend%C3%A9gl%C5%91)
 
 📍 **Radnóti Miklós utca 38**
 
@@ -199,6 +191,8 @@ Passeig fins a
 15 minuts.
 
 Creuant el pont.
+
+📍 [Illa Margarida](https://www.google.com/maps/place/Margaret+Island)
 
 ---
 
@@ -240,7 +234,7 @@ Continuar passejant.
 
 Anirem caminant fins a
 
-**Margit híd**
+[Margit híd](https://www.google.com/maps/place/Margaret+Bridge)
 
 ---
 
@@ -250,7 +244,7 @@ Anirem caminant fins a
 
 Baixar a
 
-**Móricz Zsigmond körtér**
+[Móricz Zsigmond körtér](https://www.google.com/maps/place/M%C3%B3ricz+Zsigmond+k%C3%B6rt%C3%A9r)
 
 ---
 
@@ -260,7 +254,7 @@ Baixar a
 
 Baixar a
 
-**Fővám tér**
+[Fővám tér](https://www.google.com/maps/place/F%C5%91v%C3%A1m+t%C3%A9r)
 
 ---
 
@@ -280,11 +274,11 @@ Aquest dia tens dues opcions molt bones.
 
 ## Opció 1 ⭐⭐⭐⭐⭐
 
-Si al migdia has preferit un dinar lleuger, pots deixar **Pozsonyi Kisvendéglő** per sopar, quan el barri té un ambient especialment agradable.
+Si al migdia has preferit un dinar lleuger, pots deixar **[Pozsonyi Kisvendéglő](https://www.google.com/maps/place/Pozsonyi+Kisvend%C3%A9gl%C5%91)** per sopar, quan el barri té un ambient especialment agradable.
 
 ## Opció 2 ⭐⭐⭐⭐
 
-**Menza**
+**[Menza](https://www.google.com/maps/place/Menza+Restaurant)**
 
 Si encara no hi has anat, és una bona nit per visitar-lo.
 
@@ -296,7 +290,7 @@ Et proposo un lloc que pràcticament no apareix a les guies.
 
 ## Bar
 
-**Élesztő**
+**[Élesztő](https://www.google.com/maps/place/%C3%89leszt%C5%91)**
 
 És una antiga fàbrica convertida en un espai amb cerveses artesanes.
 
