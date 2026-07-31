@@ -235,6 +235,3 @@ Són els 10 que crec que més gaudiràs.
 10. [Illa Margarida](https://www.google.com/maps/place/Margaret+Island).
 
 ---
-
-## Valoració final de l'itinerari
-

@@ -324,6 +324,3 @@ Si només hagués de triar quatre experiències, serien aquestes:
 3. **Entrar en una botiga d'artesania o ceràmica local**, molt més autèntica que les botigues de records habituals.
 4. **Fer una pausa en una cafeteria** abans de tornar, gaudint del ritme tranquil del poble.
 
-## Una recomanació personal
-
-No intentaria "veure-ho tot". Szentendre és un lloc per caminar sense presses. Dedicar-hi unes cinc hores és suficient per gaudir-lo de debò, i així tornaràs a Budapest encara amb temps per descansar i sortir a sopar. Crec que aquesta combinació (vaixell d'anada + HÉV de tornada) és la que ofereix la millor relació entre experiència i comoditat.

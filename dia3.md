@@ -335,12 +335,3 @@ Molt més local que els ruin bars del barri jueu.
 
 ---
 
-## Valoració personal
-
-**9,8/10**
-
-Aquest és el dia que menys s'assembla a una guia turística convencional. Coneixeràs un barri elegant i tranquil, faràs el recorregut del tramvia 2, gaudiràs del Parlament sense les aglomeracions habituals i passaràs la tarda a l'**Illa Margarida**, un espai molt estimat pels budapestins.
-
-## Un petit canvi que et proposaria
-
-En lloc de dinar a **Pozsonyi Kisvendéglő**, **jo hi soparia**. El carrer **Pozsonyi út** té molt d'encant al vespre, amb les terrasses plenes de gent local, i l'ambient és molt més agradable. Al migdia aprofitaria per fer un dinar lleuger en una cafeteria o bistrot del barri i reservaria el restaurant per gaudir-lo sense presses a la nit. Crec que l'experiència serà encara millor.

@@ -345,15 +345,3 @@ També és una excel·lent opció si prefereixes mantenir-te pel centre i tastar
 | 19:15 | Passeig pel Danubi     |
 | 20:30 | Sopar                  |
 
-## Valoració
-
-Crec que aquest dia queda molt equilibrat perquè combina:
-
-* ✔️ el millor mirador del centre de Budapest,
-* ✔️ un mercat emblemàtic,
-* ✔️ una cafeteria de qualitat,
-* ✔️ un balneari històric,
-* ✔️ un passeig nocturn pel Danubi,
-* ✔️ i un dels restaurants que tens com a prioritaris.
-
-L'únic canvi que faria respecte al pla inicial és **reservar Menza** amb antelació, ja que a l'agost acostuma a omplir-se, especialment per sopar. També comprovaria la disponibilitat de les entrades de la torre de la Basílica abans de marxar, perquè així podràs pujar a primera hora sense perdre temps fent cua.

@@ -322,10 +322,3 @@ Cap problema.
 
 ---
 
-## Valoració personal
-
-Li dono un **9,5/10**.
-
-No és un dia carregat de monuments, i això és intencionat. Després del viatge, el millor és començar a un ritme tranquil, passejar pel Danubi, veure la ciutat il·luminada i gaudir d'un bon sopar hongarès.
-
-**Només faria un petit canvi** respecte a aquest itinerari: després de passar per la Basílica, abans d'anar a sopar, pujaria fins a la plaça **Szabadság tér** (Plaça de la Llibertat) i després baixaria caminant cap a **Gettó Gulyás**. És un desviament de només uns minuts i et permet veure un dels espais urbans més elegants de Budapest sense pràcticament afegir temps al recorregut. Aquesta primera nit ja et donarà una molt bona sensació de la ciutat abans d'afrontar els dies complets de visites.
