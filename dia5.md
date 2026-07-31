@@ -43,6 +43,7 @@ No agafarem metro.
 ## Ruta
 
 [Hotel](https://www.google.com/maps/place/Bohem+Art+Hotel) → [Mercat Central](https://www.google.com/maps/place/Central+Market+Hall) → [Váci utca](https://www.google.com/maps/place/V%C3%A1ci+utca) → [Plaça Vörösmarty](https://www.google.com/maps/place/V%C3%B6r%C3%B6smarty+t%C3%A9r) → Danubi → Hotel
+🇭🇺 **Bohem Art Hotel** · Budapest, Múzeum körút 17 · **Nagy Vásárcsarnok** · Budapest, Vámház körút 1-3 · **Váci utca** · Budapest, Váci utca · **Vörösmarty tér** · Budapest, Vörösmarty tér
 
 ---
 
@@ -55,6 +56,7 @@ Molt tranquil.
 ---
 
 ## [Váci utca](https://www.google.com/maps/place/V%C3%A1ci+utca)
+🇭🇺 **Váci utca** · Budapest, Váci utca
 
 Ara sí.
 
@@ -89,6 +91,7 @@ Sinó:
 ## Cafè
 
 ## [Central Café](https://www.google.com/maps/place/Central+Caf%C3%A9)
+🇭🇺 **Central Café** · Budapest, Károlyi utca 9
 
 Ara sí.
 
@@ -127,6 +130,7 @@ Recollir maletes.
 ### Bus 100E
 
 Des de [Kálvin tér](https://www.google.com/maps/place/K%C3%A1lvin+t%C3%A9r), que és a uns 8 minuts caminant del teu hotel.
+🇭🇺 **Kálvin tér** · Budapest, Kálvin tér
 
 Temps aproximat:
 
@@ -234,24 +238,3 @@ Són els 10 que crec que més gaudiràs.
 
 ## Valoració final de l'itinerari
 
-Li donaria un **9,8/10**.
-
-L'únic motiu pel qual no li poso un 10 és que, amb només quatre dies i mig, és impossible veure absolutament tot Budapest. Però crec que aquesta ruta aconsegueix un molt bon equilibri entre:
-
-* ✅ els imprescindibles,
-* ✅ llocs menys turístics,
-* ✅ bona gastronomia,
-* ✅ un balneari autèntic,
-* ✅ una excursió molt recomanable,
-* ✅ i un ritme còmode, sense haver d'anar corrent d'un lloc a un altre.
-
-## Una última recomanació
-
-Si aquest viatge fos meu, **reservaria abans de sortir de Barcelona** aquestes quatre coses:
-
-1. La pujada a la torre de la [Basílica de Sant Esteve](https://www.google.com/maps/place/St.+Stephen%27s+Basilica).
-2. Els banys **[Rudas](https://www.google.com/maps/place/Rudas+Baths)** (especialment si vols una franja horària concreta).
-3. El vaixell cap a **[Szentendre](https://www.google.com/maps/place/Szentendre)**.
-4. Una taula per sopar a **[Menza](https://www.google.com/maps/place/Menza+Restaurant)**.
-
-Són les activitat

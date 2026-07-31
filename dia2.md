@@ -11,6 +11,7 @@
 ## 08:30 – Sortida de l'hotel
 
 Sortida del [Bohem Art Hotel](https://www.google.com/maps/place/Bohem+Art+Hotel).
+🇭🇺 **Bohem Art Hotel** · Budapest, Múzeum körút 17
 
 No cal transport.
 
@@ -21,6 +22,7 @@ Tot el matí el farem caminant.
 ## 08:30 → 09:00
 
 🚶 Caminar fins a la [Basílica de Sant Esteve](https://www.google.com/maps/place/St.+Stephen%27s+Basilica)
+🇭🇺 **Szent István-bazilika** · Budapest, Szent István tér 1
 
 Distància:
 
@@ -33,6 +35,7 @@ Temps:
 Ruta recomanada
 
 Hotel → [Váci utca](https://www.google.com/maps/place/V%C3%A1ci+utca) → [Deák Ferenc tér](https://www.google.com/maps/place/De%C3%A1k+Ferenc+t%C3%A9r) → Basílica
+🇭🇺 **Váci utca** · Budapest, Váci utca · **Deák Ferenc tér** · Budapest, Deák Ferenc tér
 
 Aquesta caminada és molt agradable perquè el centre encara està bastant tranquil.
 
@@ -97,6 +100,7 @@ Baixar de la torre.
 Cafè
 
 ## ☕ [Espresso Embassy](https://www.google.com/maps/place/Espresso+Embassy)
+🇭🇺 **Espresso Embassy** · Budapest, Sas utca 17
 
 10 minuts caminant.
 
@@ -124,6 +128,7 @@ Passeig pel centre
 Ruta
 
 Espresso Embassy → [Plaça de la Llibertat](https://www.google.com/maps/place/Szabads%C3%A1g+t%C3%A9r) → [Palau Gresham](https://www.google.com/maps/place/Gresham+Palace) → [Pont de les Cadenes](https://www.google.com/maps/place/Chain+Bridge).
+🇭🇺 **Szabadság tér** · Budapest, Szabadság tér · **Gresham-palota** · Budapest, Oktogon tér 6 · **Széchenyi lánchíd** · Budapest, Széchenyi lánchíd
 
 No entrarem encara al pont.
 
@@ -138,6 +143,7 @@ Temps
 ---
 
 ## [Palau Gresham](https://www.google.com/maps/place/Gresham+Palace)
+🇭🇺 **Gresham-palota** · Budapest, Oktogon tér 6
 
 ![Palau Gresham](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Gresham_Palace_Budapest_2009-12.jpg/1280px-Gresham_Palace_Budapest_2009-12.jpg)
 
@@ -146,6 +152,7 @@ Edifici modernista espectacular. Actualment és l'hotel Four Seasons.
 ---
 
 ## [Pont de les Cadenes](https://www.google.com/maps/place/Chain+Bridge)
+🇭🇺 **Széchenyi lánchíd** · Budapest, Széchenyi lánchíd
 
 ![Pont de les Cadenes de nit](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Sz%C3%A9chenyi_Chain_Bridge_in_Budapest_at_night.jpg/1280px-Sz%C3%A9chenyi_Chain_Bridge_in_Budapest_at_night.jpg)
 
@@ -156,10 +163,12 @@ El pont més famós de Budapest. Construït el 1849.
 ## 12:15
 
 Baixarem caminant cap al [Mercat Central](https://www.google.com/maps/place/Central+Market+Hall).
+🇭🇺 **Nagy Vásárcsarnok** · Budapest, Vámház körút 1-3
 
 Ruta
 
 Danubi → [Vigadó](https://www.google.com/maps/place/Vigad%C3%B3+Concert+Hall) → [Váci utca](https://www.google.com/maps/place/V%C3%A1ci+utca) → Mercat Central.
+🇭🇺 **Pesti Vigadó** · Budapest, Vigadó tér 2
 
 Temps
 
@@ -170,6 +179,7 @@ Temps
 ## 13:00
 
 [Mercat Central](https://www.google.com/maps/place/Central+Market+Hall)
+🇭🇺 **Nagy Vásárcsarnok** · Budapest, Vámház körút 1-3
 
 ![Mercat Central](https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Central_Market_Hall_Budapest_1.jpg/1280px-Central_Market_Hall_Budapest_1.jpg)
 
@@ -207,6 +217,7 @@ Especialment:
 Sortir del mercat i anar caminant fins a
 
 **[Gettó Gulyás](https://www.google.com/maps/place/Gett%C3%B3+Guly%C3%A1s)**
+🇭🇺 **Gettó Gulyás** · Budapest, Képíró utca 14/A
 
 Uns 18-20 minuts a peu des del Mercat Central.
 
@@ -225,6 +236,7 @@ Descans de 20-30 minuts.
 ## 16:15
 
 Sortida cap als [Banys Rudas](https://www.google.com/maps/place/Rudas+Baths).
+🇭🇺 **Rudas Gyógyfürdő** · Budapest, Döbrentei tér 9
 
 ## Com arribar
 
@@ -243,6 +255,7 @@ No cal transport públic.
 ## 16:30 – 19:00
 
 ## [Banys Rudas](https://www.google.com/maps/place/Rudas+Baths)
+🇭🇺 **Rudas Gyógyfürdő** · Budapest, Döbrentei tér 9
 
 ![Banys Rudas](https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Rudas_Baths_central_part_and_Gellert_Hill_in_Tab%C3%A1n%2C_2016_Budapest.jpg/1280px-Rudas_Baths_central_part_and_Gellert_Hill_in_Tab%C3%A1n%2C_2016_Budapest.jpg)
 
@@ -281,6 +294,7 @@ Sortint dels banys.
 Ruta
 
 [Pont Elisabet](https://www.google.com/maps/place/Elizabeth+Bridge) → Riba del Danubi → [Pont de la Llibertat](https://www.google.com/maps/place/Liberty+Bridge).
+🇭🇺 **Erzsébet híd** · Budapest, Erzsébet híd · **Szabadság híd** · Budapest, Szabadság híd
 
 ![Pont Elisabet](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Elisabeth_Bridge%2C_Budapest_-_Sarah_Stierch.jpg/1280px-Elisabeth_Bridge%2C_Budapest_-_Sarah_Stierch.jpg)
 
@@ -295,13 +309,16 @@ Les vistes sobre el Parlament i el Castell de Buda són magnífiques.
 ## ⭐ Prioritat 1
 
 **[Menza](https://www.google.com/maps/place/Menza+Restaurant)**
+🇭🇺 **Menza** · Budapest, Liszt Ferenc tér 2
 
 És una molt bona opció per a una primera experiència gastronòmica a Budapest. Com que és un restaurant popular, et recomano reservar amb antelació.
 
 Per arribar-hi des de Rudas:
 
 * 🚶 10 minuts fins a [Ferenciek tere](https://www.google.com/maps/place/Ferenciek+tere).
+🇭🇺 **Ferenciek tere** · Budapest, Ferenciek tere
 * 🚇 **Metro M1** des de [Deák Ferenc tér](https://www.google.com/maps/place/De%C3%A1k+Ferenc+t%C3%A9r) fins a [Oktogon](https://www.google.com/maps/place/Oktogon).
+🇭🇺 **Deák Ferenc tér** · Budapest, Deák Ferenc tér · **Oktogon** · Budapest, Oktogon tér
 * 🚶 2 minuts fins al restaurant.
 
 Temps total: uns **25-30 minuts**.
@@ -309,6 +326,7 @@ Temps total: uns **25-30 minuts**.
 ## Alternativa
 
 **[Gettó Gulyás](https://www.google.com/maps/place/Gett%C3%B3+Guly%C3%A1s)**
+🇭🇺 **Gettó Gulyás** · Budapest, Képíró utca 14/A
 
 També és una excel·lent opció si prefereixes mantenir-te pel centre i tastar cuina hongaresa tradicional.
 

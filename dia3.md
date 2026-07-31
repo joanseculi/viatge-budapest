@@ -25,6 +25,7 @@ Anirem amb un dels tramvies més bonics d'Europa.
 ## Hotel → Tramvia
 
 🚶 Caminar fins a [Fővám tér](https://www.google.com/maps/place/F%C5%91v%C3%A1m+t%C3%A9r)
+🇭🇺 **Fővám tér** · Budapest, Fővám tér
 
 Temps
 
@@ -39,6 +40,7 @@ Temps
 Direcció:
 
 [Jászai Mari tér](https://www.google.com/maps/place/J%C3%A1szai+Mari+t%C3%A9r)
+🇭🇺 **Jászai Mari tér** · Budapest, Jászai Mari tér
 
 Temps:
 
@@ -51,8 +53,11 @@ Uns **20 minuts**.
 Durant el trajecte passaràs davant de:
 
 * [Pont de les Cadenes](https://www.google.com/maps/place/Chain+Bridge)
+🇭🇺 **Széchenyi lánchíd** · Budapest, Széchenyi lánchíd
 * [Castell de Buda](https://www.google.com/maps/place/Buda+Castle)
+🇭🇺 **Budai Vár** · Budapest, Tárnok utca
 * [Parlament](https://www.google.com/maps/place/Hungarian+Parliament+Building)
+🇭🇺 **Országház** · Budapest, Kossuth Lajos tér 1-3
 * Danubi
 
 No miris el mòbil.
@@ -68,6 +73,7 @@ Les vistes són espectaculars.
 Baixar a
 
 [Jászai Mari tér](https://www.google.com/maps/place/J%C3%A1szai+Mari+t%C3%A9r)
+🇭🇺 **Jászai Mari tér** · Budapest, Jászai Mari tér
 
 ---
 
@@ -76,6 +82,7 @@ Baixar a
 Ruta
 
 [Jászai Mari tér](https://www.google.com/maps/place/J%C3%A1szai+Mari+t%C3%A9r) → [Parlament](https://www.google.com/maps/place/Hungarian+Parliament+Building) → [Sabates del Danubi](https://www.google.com/maps/place/Shoes+on+the+Danube+Bank) → [Plaça Kossuth](https://www.google.com/maps/place/Kossuth+L%C3%A1jos+t%C3%A9r)
+🇭🇺 **Országház** · Budapest, Kossuth Lajós tér 1-3 · **Cipők a Duna-parton** · Budapest, Id. Antall József rkp. · **Kossuth Lajos tér** · Budapest, Kossuth Lajos tér
 
 Temps
 
@@ -120,12 +127,14 @@ Veureu:
 És el Budapest on viuen molts habitants de la ciutat.
 
 📍 [Újlipótváros](https://www.google.com/maps/place/%C3%9Ajlip%C3%B3tv%C3%A1ros)
+🇭🇺 **Újlipótváros** · Budapest, Újlipótváros
 
 ---
 
 ## Cafè
 
 ## [Madal Café](https://www.google.com/maps/place/Madal+Caf%C3%A9)
+🇭🇺 **Madal Café** · Budapest, Pozsonyi út 14
 
 Un dels millors cafès d'especialitat de Budapest.
 
@@ -140,6 +149,7 @@ Temps
 Ara caminarem per
 
 [Pozsonyi út](https://www.google.com/maps/place/Pozsonyi+%C3%BAt)
+🇭🇺 **Pozsonyi út** · Budapest, Pozsonyi út
 
 És un carrer molt agradable.
 
@@ -159,6 +169,7 @@ Aquest carrer no surt gairebé mai a les guies.
 Dinar
 
 ## [Pozsonyi Kisvendéglő](https://www.google.com/maps/place/Pozsonyi+Kisvend%C3%A9gl%C5%91)
+🇭🇺 **Pozsonyi Kisvendéglő** · Budapest, Radnóti Miklós utca 38
 
 📍 **Radnóti Miklós utca 38**
 
@@ -193,6 +204,7 @@ Passeig fins a
 Creuant el pont.
 
 📍 [Illa Margarida](https://www.google.com/maps/place/Margaret+Island)
+🇭🇺 **Margitsziget** · Budapest, Margitsziget
 
 ---
 
@@ -235,6 +247,7 @@ Continuar passejant.
 Anirem caminant fins a
 
 [Margit híd](https://www.google.com/maps/place/Margaret+Bridge)
+🇭🇺 **Margit híd** · Budapest, Margit híd
 
 ---
 
@@ -245,6 +258,7 @@ Anirem caminant fins a
 Baixar a
 
 [Móricz Zsigmond körtér](https://www.google.com/maps/place/M%C3%B3ricz+Zsigmond+k%C3%B6rt%C3%A9r)
+🇭🇺 **Móricz Zsigmond körtér** · Budapest, Móricz Zsigmond körtér
 
 ---
 
@@ -255,6 +269,7 @@ Baixar a
 Baixar a
 
 [Fővám tér](https://www.google.com/maps/place/F%C5%91v%C3%A1m+t%C3%A9r)
+🇭🇺 **Fővám tér** · Budapest, Fővám tér
 
 ---
 
@@ -279,6 +294,7 @@ Si al migdia has preferit un dinar lleuger, pots deixar **[Pozsonyi Kisvendégl�
 ## Opció 2 ⭐⭐⭐⭐
 
 **[Menza](https://www.google.com/maps/place/Menza+Restaurant)**
+🇭🇺 **Menza** · Budapest, Liszt Ferenc tér 2
 
 Si encara no hi has anat, és una bona nit per visitar-lo.
 
@@ -291,6 +307,7 @@ Et proposo un lloc que pràcticament no apareix a les guies.
 ## Bar
 
 **[Élesztő](https://www.google.com/maps/place/%C3%89leszt%C5%91)**
+🇭🇺 **Élesztő** · Budapest, Tűzoltó utca 22
 
 És una antiga fàbrica convertida en un espai amb cerveses artesanes.
 

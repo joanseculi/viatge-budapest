@@ -17,19 +17,22 @@
         dayView.classList.add('hidden');
         currentDay = null;
         window.scrollTo(0, 0);
+        history.pushState(null, '', window.location.pathname);
         updateActiveNav();
     }
 
     function showDay(dayNum) {
+        landing.classList.add('hidden');
+        dayView.classList.remove('hidden');
+        history.pushState(null, '', '#day' + dayNum);
+        window.scrollTo(0, 0);
+
         if (cache[dayNum]) {
             renderDay(dayNum, cache[dayNum]);
             return;
         }
 
         dayContent.innerHTML = '<div class="loading">Carregant</div>';
-        landing.classList.add('hidden');
-        dayView.classList.remove('hidden');
-        window.scrollTo(0, 0);
 
         fetch('dia' + dayNum + '.md')
             .then(function (response) {
@@ -196,4 +199,17 @@
             showDay(dayNum);
         }
     }
+
+    // Handle browser back/forward
+    window.addEventListener('popstate', function () {
+        var hash = window.location.hash;
+        if (hash && hash.indexOf('#day') !== -1) {
+            var dayNum = hash.replace('#day', '');
+            if (dayNum >= 1 && dayNum <= 5) {
+                showDay(dayNum);
+            }
+        } else {
+            showLanding();
+        }
+    });
 })();

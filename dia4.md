@@ -35,6 +35,7 @@ Uns **20 minuts**.
 Ruta
 
 Hotel → Danubi → [Vigadó tér](https://www.google.com/maps/place/Vigad%C3%B3+t%C3%A9r)
+🇭🇺 **Vigadó tér** · Budapest, Vigadó tér
 
 Aquí és on acostumen a sortir els vaixells turístics cap a Szentendre.
 
@@ -87,6 +88,7 @@ Cap a les
 **11:00**
 
 📍 [Szentendre](https://www.google.com/maps/place/Szentendre)
+🇭🇺 **Szentendre** · Szentendre, Szentendre
 
 ---
 
@@ -109,6 +111,7 @@ Botigues d'art.
 Galeries.
 
 📍 [Szentendre Casc Antic](https://www.google.com/maps/place/Szentendre+Old+Town)
+🇭🇺 **Szentendre Óváros** · Szentendre, Templom tér
 
 ---
 
@@ -129,12 +132,14 @@ Vaixells.
 Molta tranquil·litat.
 
 📍 [Szentendre Danube Promenade](https://www.google.com/maps/place/Szentendre+Danube+Promenade)
+🇭🇺 **Szentendre Dunakorzó** · Szentendre, Duna korzó
 
 ---
 
 ## 3. Cafè
 
 ## ☕ [Café La Mocca](https://www.google.com/maps/place/Caf%C3%A9+La+Mocca)
+🇭🇺 **Café La Mocca** · Szentendre, Fő tér 2
 
 Una de les cafeteries més agradables del poble.
 
@@ -147,6 +152,7 @@ Perfecta per descansar una estona.
 Et recomano el
 
 **[Museu Marzipan](https://www.google.com/maps/place/Marzipan+Museum)**
+🇭🇺 **Marcipán Múzeum** · Szentendre, Berényi Béla utca 2
 
 No és gaire gran.
 
@@ -177,12 +183,14 @@ Evitaria els imants i records típics.
 ## Prioritat
 
 **[Mjam Gastro](https://www.google.com/maps/place/Mjam+Gastro)**
+🇭🇺 **Mjam Gastro** · Szentendre, Duna korzó
 
 És una molt bona opció si busques cuina moderna feta amb producte local.
 
 Alternativa més tradicional:
 
 **[Kacsakő Bisztró](https://www.google.com/maps/place/Kacsak%C5%91+Bisztr%C3%B3)**, situat a tocar del Danubi, ideal per dinar amb vistes.
+🇭🇺 **Kacsakő Bisztró** · Szentendre, Duna korzó
 
 ---
 
@@ -193,6 +201,7 @@ Opció A (la meva preferida)
 ## Tornar en HÉV H5
 
 Des de l'estació de [Szentendre](https://www.google.com/maps/place/Szentendre+Train+Station).
+🇭🇺 **Szentendre vasútállomás** · Szentendre, Vicor utca
 
 Temps:
 
@@ -201,12 +210,15 @@ Uns **40 minuts**.
 Baixar a:
 
 [Batthyány tér](https://www.google.com/maps/place/Batthy%C3%A1ny+t%C3%A9r)
+🇭🇺 **Batthyány tér** · Budapest, Batthyány tér
 
 Després:
 
 🚇 Metro **M2** fins a [Deák Ferenc tér](https://www.google.com/maps/place/De%C3%A1k+Ferenc+t%C3%A9r).
+🇭🇺 **Deák Ferenc tér** · Budapest, Deák Ferenc tér
 
 🚇 Metro **M3** fins a [Kálvin tér](https://www.google.com/maps/place/K%C3%A1lvin+t%C3%A9r).
+🇭🇺 **Kálvin tér** · Budapest, Kálvin tér
 
 🚶 8 minuts fins a l'hotel.
 
@@ -255,6 +267,7 @@ Una hora a l'hotel.
 ## Sopar
 
 ## ⭐ [Menza](https://www.google.com/maps/place/Menza+Restaurant)
+🇭🇺 **Menza** · Budapest, Liszt Ferenc tér 2
 
 Si encara no hi has anat,
 
@@ -269,6 +282,7 @@ Reserva.
 Si Menza està complet,
 
 **[Gulyás Leves](https://www.google.com/maps/place/Guly%C3%A1s+Leves)**
+🇭🇺 **Gulyás Leves** · Budapest, Hold utca
 
 ---
 
@@ -277,6 +291,7 @@ Si Menza està complet,
 Et proposo acabar el dia passejant per
 
 [Andrássy út](https://www.google.com/maps/place/Andr%C3%A1ssy+%C3%BAt).
+🇭🇺 **Andrássy út** · Budapest, Andrássy út
 
 De nit és preciosa.
 
